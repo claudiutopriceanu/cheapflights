@@ -1,0 +1,30 @@
+{
+  "name": "cheapflights",
+  "version": "0.1.0",
+  "homepage": "https://claudiutopriceanu.github.io/cheapflights/",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "moment": "^2.18.1",
+    "react": ">=0.14",
+    "react-addons-shallow-compare": ">=0.14",
+    "react-bootstrap": "^0.31.1",
+    "react-datepicker": "^0.52.0",
+    "react-dates": "^12.3.0",
+    "react-dom": ">=0.14",
+    "react-form": "^1.3.0",
+    "react-icons-kit": "^1.0.7",
+    "react-redux": "^5.0.5",
+    "react-scripts": "1.0.10",
+    "react-select": "^1.0.0-rc.5",
+    "redux": "^3.7.2",
+    "redux-form": "^7.0.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
